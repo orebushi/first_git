@@ -4,3 +4,4 @@ Git‚Ì—ûK‚ğ‚·‚éB
 •ÏX‚µ‚Ü‚µ‚½B
 git add
 git commit
+git rm
